@@ -1,0 +1,16 @@
+Angeldust Helper is provided as a utility service for Discord servers and users. By inviting or using the Bot, you agree to these Terms of Service.
+
+You agree not to:
+abuse or spam the Bot
+attempt to break or exploit its features
+use it for anything illegal or harmful
+
+The Bot is provided “as is”.
+It may be changed, updated, or go offline at any time without notice.
+
+All information provided by the Bot (such as creatures, areas, and species data) is for informational and entertainment purposes only.
+We are not responsible for any incorrect or outdated information.
+
+We are not responsible for any issues caused by the use or inability to use the Bot.
+
+These terms may be updated at any time. Continued use of the Bot means you accept any changes.
